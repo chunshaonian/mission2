@@ -1,0 +1,203 @@
+
+.index-banner{
+	 position: relative;
+     background: #b3b3b3;
+}
+
+.index-banner-bg{
+	height: 1920px;
+	width: 1080px;
+	overflow: hidden;
+}
+.index-banner-bg img{
+	margin: 0 auto;
+}
+
+.index-banner-text{
+	position: absolute;
+	top: 93px;
+	left: 31%;
+	margin-left: -296px;
+}
+.index-banner-text.text-logo{
+	width: 473px;
+	height: 63px;
+	background: url("../images/text-logo.png")no-repeat;
+}
+
+.index-banner-balloon{
+	position: absolute;
+	top: 33px;
+	left: 18%;
+	margin-left: -179px;
+}
+.index-banner-balloon
+.index-banner-frame{
+	position: relative;
+	background: url("demo2.png");
+	top: 210px;
+	left: 53%;
+	margin-left: -511px;
+}
+.index-banner-message{
+	position: relative;
+	background: url("message.png");
+	top: 293px;
+	left: 60%;
+	margin-left: -574px;
+}
+.index-banner-picture{
+	position: relative;
+	background: url("pic.png");
+	top: 320px;
+	left:100%;
+	margin-left:-706px ;
+}
+.index-banner-picture2{
+	position: relative;
+	background: url("pic2.png");
+	top: 285px;
+	left: 100%;
+	margin-left: -720px;
+}
+
+.index-banner-reason{
+	position: relative;
+	background: url("rea.png");
+	top: 608px;
+	left: 98%;
+	margin-left: -926px;
+}
+.index-banner-success{
+	position: relative;
+	background: url("success2.png");
+	top: 792px;
+	left: 77%;
+	margin-left: -574px;
+}
+.index-banner-success2{
+	position: absolute;
+	background: url("succcess.png") ;
+	top: 808px;
+	left: 80%;
+	margin-left: -576px;
+}
+.index-banner-balloon2{
+	position: absolute;
+	background: url("balloonr.png");
+	top:180px;
+	left: 100%;
+	margin-left: -455px;
+}
+.index-banner-fall{
+	position: absolute;
+	border:2px solid #ffffff;
+	padding:10px 2px;
+	border-radius:25px;
+	background: #ffffff;
+	top: 285px;
+	left: 64%;
+	margin-left: -580px;
+}
+.index-banner-fall-name{
+	width: 156px;
+	height: 40px;
+}
+.index-banner-left{
+	position: absolute;
+	border:2px solid #ffffff;
+	padding:10px 130px;
+	border-radius:25px;
+	background: #ffffff;
+	top: 450px;
+	left: 64%;
+	margin-left: -580px;
+}
+.index-banner-left-account{
+	width: 156px;
+	height: 40px;
+}
+.index-banner-down{
+	position: absolute;
+	border:2px solid #ffffff;
+	padding:10px 2px;
+	border-radius:25px;
+	background: #ffffff;
+	top: 365px;
+	left: 64%;
+	margin-left: -580px;
+}
+.index-banner-down-Professional name{
+	width: 156px;
+	height: 40px;
+}
+.index-banner-right{
+	position: absolute;
+	 border:2px solid #ffffff;
+	 padding:10px 2px;
+	 border-radius:25px;
+	 background: #ffffff;
+	 top: 365px;
+	 left: 95%;
+	margin-left: -904px;
+}
+.index-banner-right-class{
+	 width: 156px;
+	 height: 40px;
+}
+.index-banner-sex{
+	 position: absolute;
+	 border:2px solid #ffffff;
+	 padding:10px 2px;
+	 border-radius:25px;
+	 background: #ffffff;
+	 top: 285px;
+	 left: 95%;
+	 margin-left: -904px;
+}
+.index-banner-sex-sex{
+	 width: 156px;
+	 height: 40px;
+}
+.index-banner-hope{
+	position: absolute;
+	border:2px solid #ffffff;
+	padding:10px 100px;
+	border-radius:25px;
+	background: #ffffff;
+	top: 533px;
+	left: 64%;
+	margin-left: -580px;
+}
+.index-banner-hope-iForm{
+	width: 156px;
+	height: 40px;
+}
+.index-banner-hope2{
+	position: absolute;
+	border:2px solid #ffffff;
+	padding:10px 100px;
+	border-radius:25px;
+	background: #ffffff;
+	top: 533px;
+	left: 86%;
+	margin-left: -595px;
+}
+.index-banner-hope2-iForm{
+	width: 156px;
+	height: 40px;
+}
+.index-banner-reas{
+	position: absolute;
+	border:2px solid #ffffff;
+	padding:50px 300px;
+	border-radius:25px;
+	background: #ffffff;
+	top: 650px;
+	left: 80%;
+	margin-left: -926px;
+}
+.index-banner-reas-Reason{
+	width: 790px;
+	height: 115px;
+}
