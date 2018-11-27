@@ -54,14 +54,14 @@
     background: url("pic.png");
     top: 320px;
     left:100%;
-    margin-left:-600px ;
+    margin-left:-570px ;
 }
 .index-banner-picture2{
     position: absolute;
     background: url("pic2.png");
     top: 285px;
     left: 100%;
-    margin-left: -615px;
+    margin-left: -585px;
 }
 
 .index-banner-reason{
@@ -77,7 +77,7 @@
     background: url("balloonr.png");
     top:180px;
     left: 100%;
-    margin-left: -400px;
+    margin-left: -330px;
 }
 .index-banner-fall{
     position: absolute;
